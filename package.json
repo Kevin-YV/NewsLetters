@@ -1,0 +1,32 @@
+{
+  "name": "news-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@material/web": "^1.0.1",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material": "^5.14.18",
+    "@reduxjs/toolkit": "^1.9.7",
+    "next": "14.0.2",
+    "react": "^18",
+    "react-bootstrap-pagination-control": "^1.0.5",
+    "react-dom": "^18",
+    "react-redux": "^8.1.3",
+    "redux-persist": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2"
+  }
+}
